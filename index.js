@@ -61,7 +61,6 @@ getFilePath(process.argv)
     console.log(componentTestOutput)
     exitProgram();
   })
-  // Run tests
   .catch(err => {
     console.error('\tERROR:', err)
     exitProgram();
