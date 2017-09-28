@@ -1,2 +1,9 @@
 # pre-commit-script
-A script to check things before a commit
+
+### Instructions
+
+- Install nodejs
+
+- Add as an alias:
+alias myAliasName='nodejs ~/path/to/repos/index.js `pwd`'
+
